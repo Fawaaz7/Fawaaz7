@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohammed Fawaaz Shareef!</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammed+Fawaaz+Shaeef!;" />
+</h1>
 <h3 align="center">𝐃𝐞𝐯𝐎𝐩𝐬/𝐒𝐢𝐭𝐞 𝐑𝐞𝐥𝐢𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐏𝐫𝐚𝐜𝐭𝐢𝐭𝐢𝐨𝐧𝐞𝐫</h3>
 <img align="right" alt="Coding" width="320" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052457/DevOps-Steps-1-min.gif">
 
