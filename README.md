@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Fawaaz Shareef!</h1>
 <h3 align="center">𝐃𝐞𝐯𝐎𝐩𝐬/𝐒𝐢𝐭𝐞 𝐑𝐞𝐥𝐢𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐏𝐫𝐚𝐜𝐭𝐢𝐭𝐢𝐨𝐧𝐞𝐫</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052457/DevOps-Steps-1-min.gif)">
 
 - 🌱 I’m currently learning **Terraform,Kubernetes**
 
